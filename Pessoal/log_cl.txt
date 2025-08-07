@@ -1,0 +1,138 @@
+[F 2025-08-07 18:40:45] ===== Parsec: Started =====
+[D 2025-08-07 18:40:45] log: Parsec release (150-100e, Service: -1, Loader: 13)
+[3 2025-08-07 18:40:45] IPC name in args: PARSEC_IPC_3df272404b5a0e2f
+[D 2025-08-07 18:40:45] Client status changed to: -3
+[D 2025-08-07 18:40:46] MTY_DeleteFile: 'DeleteFile' failed with error 0x2
+[D 2025-08-07 18:40:47] UPNP: Getting a valid IGD: A valid connected IGD has been found but its IP address is reserved (non routable)
+[D 2025-08-07 18:42:00] login_pre_frame: Auth success: Standard
+[D 2025-08-07 18:42:03] Client status changed to: 20
+[I 2025-08-07 18:42:05] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 18:42:06] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 18:42:06] BUD AES_GCM   = 256
+[I 2025-08-07 18:42:06] Host's virtual microphone is enabled
+[I 2025-08-07 18:42:06] Host's virtual microphone is enabled
+[D 2025-08-07 18:42:06] mfx_sdk       = 1.255
+[D 2025-08-07 18:42:06] decoder       = intel
+[D 2025-08-07 18:42:06] codec         = h265
+[D 2025-08-07 18:42:06] format        = NV12
+[D 2025-08-07 18:42:06] fullrange     = false
+[D 2025-08-07 18:42:07] mfx_sdk       = 1.255
+[D 2025-08-07 18:42:07] decoder       = intel
+[D 2025-08-07 18:42:07] codec         = h265
+[D 2025-08-07 18:42:07] format        = NV12
+[D 2025-08-07 18:42:07] fullrange     = false
+[D 2025-08-07 18:42:56] Client status changed to: -3
+[D 2025-08-07 18:43:03] Client status changed to: 20
+[I 2025-08-07 18:43:05] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 18:43:06] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 18:43:06] BUD AES_GCM   = 256
+[I 2025-08-07 18:43:06] Host's virtual microphone is enabled
+[D 2025-08-07 18:43:06] mfx_sdk       = 1.255
+[D 2025-08-07 18:43:06] decoder       = intel
+[D 2025-08-07 18:43:06] codec         = h265
+[D 2025-08-07 18:43:06] format        = NV12
+[D 2025-08-07 18:43:06] fullrange     = false
+[D 2025-08-07 18:43:07] mfx_sdk       = 1.255
+[D 2025-08-07 18:43:07] decoder       = intel
+[D 2025-08-07 18:43:07] codec         = h265
+[D 2025-08-07 18:43:07] format        = NV12
+[D 2025-08-07 18:43:07] fullrange     = false
+[D 2025-08-07 18:45:57] UPNP: No devlist
+[D 2025-08-07 18:49:31] Client status changed to: -3
+[D 2025-08-07 18:52:07] Client status changed to: 20
+[I 2025-08-07 18:52:09] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 18:52:10] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 18:52:10] BUD AES_GCM   = 256
+[I 2025-08-07 18:52:10] Host's virtual microphone is enabled
+[D 2025-08-07 18:52:10] mfx_sdk       = 1.255
+[D 2025-08-07 18:52:11] decoder       = intel
+[D 2025-08-07 18:52:11] codec         = h265
+[D 2025-08-07 18:52:11] format        = NV12
+[D 2025-08-07 18:52:11] fullrange     = false
+[D 2025-08-07 18:52:11] mfx_sdk       = 1.255
+[D 2025-08-07 18:52:11] decoder       = intel
+[D 2025-08-07 18:52:11] codec         = h265
+[D 2025-08-07 18:52:11] format        = NV12
+[D 2025-08-07 18:52:11] fullrange     = false
+[D 2025-08-07 18:52:21] Client status changed to: -3
+[D 2025-08-07 18:53:57] Client status changed to: 20
+[I 2025-08-07 18:54:01] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 18:54:02] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 18:54:02] BUD AES_GCM   = 256
+[I 2025-08-07 18:54:02] Host's virtual microphone is enabled
+[D 2025-08-07 18:54:02] mfx_sdk       = 1.255
+[D 2025-08-07 18:54:02] decoder       = intel
+[D 2025-08-07 18:54:02] codec         = h265
+[D 2025-08-07 18:54:02] format        = NV12
+[D 2025-08-07 18:54:02] fullrange     = false
+[D 2025-08-07 18:54:03] mfx_sdk       = 1.255
+[D 2025-08-07 18:54:03] decoder       = intel
+[D 2025-08-07 18:54:03] codec         = h265
+[D 2025-08-07 18:54:03] format        = NV12
+[D 2025-08-07 18:54:03] fullrange     = false
+[D 2025-08-07 18:55:12] Client status changed to: -3
+[D 2025-08-07 18:55:37] Client status changed to: 20
+[I 2025-08-07 18:55:39] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 18:55:39] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 18:55:39] BUD AES_GCM   = 256
+[I 2025-08-07 18:55:40] Host's virtual microphone is enabled
+[D 2025-08-07 18:55:40] mfx_sdk       = 1.255
+[D 2025-08-07 18:55:40] decoder       = intel
+[D 2025-08-07 18:55:40] codec         = h265
+[D 2025-08-07 18:55:40] format        = NV12
+[D 2025-08-07 18:55:40] fullrange     = false
+[D 2025-08-07 18:55:40] mfx_sdk       = 1.255
+[D 2025-08-07 18:55:40] decoder       = intel
+[D 2025-08-07 18:55:40] codec         = h265
+[D 2025-08-07 18:55:40] format        = NV12
+[D 2025-08-07 18:55:40] fullrange     = false
+[D 2025-08-07 19:02:07] Client status changed to: -3
+[D 2025-08-07 19:03:20] Client status changed to: 20
+[I 2025-08-07 19:03:22] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 19:03:22] net           = BUD|::ffff:191.37.148.93|51744
+[D 2025-08-07 19:03:22] BUD AES_GCM   = 256
+[I 2025-08-07 19:03:23] Host's virtual microphone is enabled
+[D 2025-08-07 19:03:23] mfx_sdk       = 1.255
+[D 2025-08-07 19:03:23] decoder       = intel
+[D 2025-08-07 19:03:23] codec         = h265
+[D 2025-08-07 19:03:23] format        = NV12
+[D 2025-08-07 19:03:23] fullrange     = false
+[D 2025-08-07 19:03:23] mfx_sdk       = 1.255
+[D 2025-08-07 19:03:24] decoder       = intel
+[D 2025-08-07 19:03:24] codec         = h265
+[D 2025-08-07 19:03:24] format        = NV12
+[D 2025-08-07 19:03:24] fullrange     = false
+[D 2025-08-07 19:09:36] Client status changed to: -3
+[D 2025-08-07 19:15:20] Client status changed to: 20
+[I 2025-08-07 19:15:22] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 19:15:22] net           = BUD|::ffff:191.37.148.93|51736
+[D 2025-08-07 19:15:22] BUD AES_GCM   = 256
+[I 2025-08-07 19:15:23] Host's virtual microphone is enabled
+[D 2025-08-07 19:15:23] mfx_sdk       = 1.255
+[D 2025-08-07 19:15:23] decoder       = intel
+[D 2025-08-07 19:15:23] codec         = h265
+[D 2025-08-07 19:15:23] format        = NV12
+[D 2025-08-07 19:15:23] fullrange     = false
+[D 2025-08-07 19:15:24] mfx_sdk       = 1.255
+[D 2025-08-07 19:15:24] decoder       = intel
+[D 2025-08-07 19:15:24] codec         = h265
+[D 2025-08-07 19:15:24] format        = NV12
+[D 2025-08-07 19:15:24] fullrange     = false
+[D 2025-08-07 19:15:53] Client status changed to: -3
+[D 2025-08-07 19:15:58] Client status changed to: 20
+[I 2025-08-07 19:16:00] STUN reply from ::ffff:35.169.37.243:3478
+[D 2025-08-07 19:16:01] net           = BUD|::ffff:191.37.148.93|51736
+[D 2025-08-07 19:16:01] BUD AES_GCM   = 256
+[I 2025-08-07 19:16:01] Host's virtual microphone is enabled
+[D 2025-08-07 19:16:01] mfx_sdk       = 1.255
+[D 2025-08-07 19:16:01] decoder       = intel
+[D 2025-08-07 19:16:01] codec         = h265
+[D 2025-08-07 19:16:01] format        = NV12
+[D 2025-08-07 19:16:01] fullrange     = false
+[D 2025-08-07 19:16:02] mfx_sdk       = 1.255
+[D 2025-08-07 19:16:02] decoder       = intel
+[D 2025-08-07 19:16:02] codec         = h265
+[D 2025-08-07 19:16:02] format        = NV12
+[D 2025-08-07 19:16:02] fullrange     = false
+[D 2025-08-07 19:16:45] Client status changed to: -3
+[F 2025-08-07 19:19:26] ===== Parsec: Shutdown with 0 =====

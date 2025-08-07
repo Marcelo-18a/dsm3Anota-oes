@@ -1,0 +1,23 @@
+[
+	"See https://parsec.app/config for documentation and example. JSON must be valid before saving or file be will be erased.",
+	{
+		"app_changelog_ver": {
+			"value": 8
+		},
+		"app_channel": {
+			"value": "release16"
+		},
+		"app_run_level": {
+			"value": 1
+		},
+		"client_overlay_button_x": {
+			"value": 2708331
+		},
+		"client_overlay_button_y": {
+			"value": 135555552
+		},
+		"client_windowed": {
+			"value": true
+		}
+	}
+]

@@ -1,0 +1,48 @@
+[F 2025-08-07 18:40:38] ===== Parsec: Started =====
+[D 2025-08-07 18:40:38] log: Parsec release-ui[release] (150-99, Service: -1, Loader: 13)
+[F 2025-08-07 18:40:42] ===== Parsec: Shutdown with 1 =====
+
+[F 2025-08-07 18:40:45] ===== Parsec: Started =====
+[D 2025-08-07 18:40:45] log: Parsec release (150-100e, Service: -1, Loader: 13)
+[D 2025-08-07 18:40:45] IPC AS Client Connected.
+[D 2025-08-07 18:40:45] hosting: Initial Username 'fatec-dsm3'[3].
+[D 2025-08-07 18:40:45] process_get_current_user_token: Failed to Duplicate token.
+[D 2025-08-07 18:40:45] IPC AS Client Connected.
+[D 2025-08-07 18:40:45] Hosting IPC Status: 0 - No retry.
+[D 2025-08-07 18:40:47] UPNP: Getting a valid IGD: A valid connected IGD has been found but its IP address is reserved (non routable)
+[D 2025-08-07 18:42:00] PCVUD_is_operable failed, no compatible driver found.
+[I 2025-08-07 18:42:00] Parsec Virtual USB Adapter failed to initialize, no virtual device support
+[I 2025-08-07 18:42:00] Failed to initialize host gamepad input via ViGEm
+[D 2025-08-07 18:42:01] PCVUD_is_operable failed, no compatible driver found.
+[I 2025-08-07 18:42:01] Parsec Virtual USB Adapter failed to initialize, no virtual device support
+[I 2025-08-07 18:42:01] Failed to initialize host gamepad input via ViGEm
+[I 2025-08-07 18:42:03] Client Status received: 20
+[I 2025-08-07 18:42:06] Client Status received: 0
+[I 2025-08-07 18:42:56] Client Status received: -3
+[I 2025-08-07 18:43:03] Client Status received: 20
+[I 2025-08-07 18:43:06] Client Status received: 0
+[D 2025-08-07 18:45:57] UPNP: No devlist
+[I 2025-08-07 18:49:31] Client Status received: -3
+[I 2025-08-07 18:52:07] Client Status received: 20
+[I 2025-08-07 18:52:10] Client Status received: 0
+[I 2025-08-07 18:52:21] Client Status received: -3
+[I 2025-08-07 18:53:57] Client Status received: 20
+[I 2025-08-07 18:54:02] Client Status received: 0
+[I 2025-08-07 18:55:12] Client Status received: -3
+[I 2025-08-07 18:55:37] Client Status received: 20
+[I 2025-08-07 18:55:40] Client Status received: 0
+[I 2025-08-07 19:02:07] Client Status received: -3
+[I 2025-08-07 19:03:20] Client Status received: 20
+[I 2025-08-07 19:03:23] Client Status received: 0
+[I 2025-08-07 19:09:36] Client Status received: -3
+[I 2025-08-07 19:15:20] Client Status received: 20
+[I 2025-08-07 19:15:23] Client Status received: 0
+[I 2025-08-07 19:15:53] Client Status received: -3
+[I 2025-08-07 19:15:58] Client Status received: 20
+[I 2025-08-07 19:16:01] Client Status received: 0
+[I 2025-08-07 19:16:45] Client Status received: -3
+[I 2025-08-07 19:19:26] Client Exit Status received: 0
+[D 2025-08-07 19:19:26] hosting: Client exited with code: 0.
+[D 2025-08-07 19:19:27] usb_device_thread: Main USB Passthrough Thread Starting
+[D 2025-08-07 19:19:27] usb_device_thread: Main USB Passthrough Thread Ending
+[F 2025-08-07 19:19:27] ===== Parsec: Shutdown with 0 =====
